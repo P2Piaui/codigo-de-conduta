@@ -73,7 +73,7 @@ Essa é a lista de moderadores e seus respectivos IDs do Discord:**
 
 ## Como participar do grupo?
 
-Este grupo é voltado para profissionais que trabalhem no Piauí ou que são piauienses. Isso inclui desenvolvedores e designers, e exclui jornalistas ou recrutadores/profissionais de RH. Não é necessária nenhuma experiência prévia em programacão, mas é importante deixar claro que o grupo tem como propósito reunir desenvolvedores piauienses em torno de discussões e aprendizado coletivo. Por isso, quaisquer mensagens que se distanciem demais deste foco serão passíveis de exclusão ou banimento.
+Este grupo é voltado para profissionais que trabalhem no Piauí ou que são piauienses. Isso inclui desenvolvedores e designers, e exclui recrutadores/profissionais de RH. Não é necessária nenhuma experiência prévia em programacão, mas é importante deixar claro que o grupo tem como propósito reunir desenvolvedores piauienses em torno de discussões e aprendizado coletivo. Por isso, quaisquer mensagens que se distanciem demais deste foco serão passíveis de exclusão ou banimento.
 Mensagens com cunho unicamente publicitário, sejam propagandas de aplicativos ou empresas não serão permitidas.
 **Temos como premissa não termos ligacão ou apoio de Instituicões Públicas, Entidades de Ensino ou Empresas.**
 É dever de todos os membros ativos acompanhar e reportar, sempre que possível, para um dos administradores quaisquer mensagens suspeitas ou que violem as regras do grupo, bem como apontar possíveis melhorias e ajustes neste Código de Conduta.
