@@ -1,5 +1,6 @@
+# Código de Conduta
 
-Código de conduta baseado em: https://github.com/androiddevbr/codigo-de-conduta
+Código de conduta baseado em: https://github.com/androiddevbr/codigo-de-conduta.
 
 *Esse texto é um documento em constante edição, e pode ser alterado no futuro.*
 
